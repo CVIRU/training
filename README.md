@@ -5,13 +5,14 @@
 ---    
 
 ## Table of Contents
-[Summary](#summ)     
+[Summary](#summ)  
+[Setup](#setup) 
 [Links](#links)   
   
 ## Summary<a name="summ"></a>
 This repository contains training material and useful links for new CVI Statistics group members.  
   
-###Setup
+## Setup<a name="setup"></a>
 1. Download and install [R](https://cran.r-project.org/bin/windows/base/old/3.5.3/).  
 2. Download and install [RStudio](https://rstudio.com/products/rstudio/download/#download).  
 3. Download and install [Git](https://git-scm.com/downloads).  
